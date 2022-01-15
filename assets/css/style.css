@@ -1,25 +1,39 @@
 body{
-    background-color: gray;
+    background: brown;
+    color: white;
 }
-#title{
-    color: rgb(32, 32, 32);
+#principal{
+    color: goldenrod;
     text-align: center;
+    font-size: 50px;
+    border: 20px solid;
+    padding: 10 px;
+    margin: 10px;
+    background: red;
 }
 img{
     max-width: 100px;
-    max-height: 100px;
+    max-height: 100px;  
     width: auto;
     height: auto;
     position: absolute;
-    top: 2%;
-    left: 1%;
+    top: 22px;
+    left: 25px;
     bottom: 90%;
+    border:20 px goldenrod;
     border-style: solid;
+    padding: 4px;
 
 }
 .lateral{
     position: absolute;
-    top: 12%;
+    top: 10px;
+    bottom: 0%;
+    border: 20px solid goldenrod;
+    padding-top: 95px;
+    padding-right: 10px;
+    margin: 10px;
+    background: red;
 
 }
 footer{
