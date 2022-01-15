@@ -6,9 +6,11 @@ body{
     color: goldenrod;
     text-align: center;
     font-size: 50px;
-    border: 20px solid;
+    border: 10px solid;
     padding: 10 px;
-    margin: 10px;
+    margin: 0px;
+    margin-left: 120px;
+    margin-right: 60px;
     background: red;
 }
 img{
@@ -20,16 +22,16 @@ img{
     top: 22px;
     left: 25px;
     bottom: 90%;
-    border:20 px goldenrod;
+    border:10 px goldenrod;
     border-style: solid;
     padding: 4px;
 
 }
 .lateral{
     position: absolute;
-    top: 10px;
+    top: 98px;
     bottom: 0%;
-    border: 20px solid goldenrod;
+    border: 10px solid goldenrod;
     padding-top: 95px;
     padding-right: 10px;
     margin: 10px;
@@ -48,4 +50,8 @@ footer{
     top: 12%;
     left: 8%;
 
+}
+p{
+    margin: 30px;
+    margin-right: 100px;
 }
